@@ -1,4 +1,4 @@
-# Flask Blog Backend
+# 🧊 Flask Blog Backend
 
 A full-featured Flask-based backend web application that powers a blog and social platform. Includes authentication, posting, commenting, chat, events, profiles, followers, and more — all handled via server-side logic and templates.
 
