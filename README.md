@@ -5,15 +5,25 @@ A full-featured Flask-based backend web application that powers a blog and socia
 ## 🔧 Features
 
 - ✅ User authentication (register, login, logout, update, delete)
+
 - 📝 Blog post creation, updating, deletion, and commenting
+
 - 🧠 Note-taking system
+
 - 💬 Global chat feature
+
 - 🎉 Event management
+
 - 👤 User profiles and bios
+
 - 🎂 Birthday tracking
+
 - 📚 Stories section
+
 - 🚩 Post reporting
+
 - 👥 Follower system
+
 - 📣 Feedback submissions
 
 ## 🚀 Getting Started
